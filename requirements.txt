@@ -1,0 +1,5 @@
+python 3+
+pygame
+sys
+python random module
+python math module
